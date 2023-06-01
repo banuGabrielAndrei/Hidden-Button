@@ -1,0 +1,13 @@
+.btns {
+    width: 200px;
+    height: 100px;
+    border-radius: 50px;
+    background-color: grey;
+}
+
+.btns1 {
+    width: 200px;
+    height: 100px;
+    border-radius: 50px;
+    background-color: brown;
+}

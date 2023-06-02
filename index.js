@@ -45,12 +45,3 @@ function checkWinnerButton(e) {
 }
 
 buttonsSetup();
-
-           
-
-
-
-
-
-
-
